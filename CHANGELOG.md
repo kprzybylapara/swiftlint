@@ -65,7 +65,11 @@
   [Marcelo Fabri](https://github.com/marcelofabri)
   [#2623](https://github.com/realm/SwiftLint/issues/2623)
 
-  
+* `colon` rule now catches violations when declaring generic types with
+  inheritance or protocol conformance.  
+  [Marcelo Fabri](https://github.com/marcelofabri)
+  [#2628](https://github.com/realm/SwiftLint/issues/2628)
+
 ## 0.30.1: Localized Stain Remover
 
 #### Breaking
