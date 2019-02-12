@@ -65,7 +65,10 @@
   [Marcelo Fabri](https://github.com/marcelofabri)
   [#2623](https://github.com/realm/SwiftLint/issues/2623)
 
-  
+* Fix `number_separator` with year integer literals.  
+  [Cihat Gündüz](https://github.com/Dschee)
+  [#2637](https://github.com/realm/SwiftLint/issues/2637)
+
 ## 0.30.1: Localized Stain Remover
 
 #### Breaking
@@ -221,7 +224,7 @@
   types.  
   [Marcelo Fabri](https://github.com/marcelofabri)
   [#2539](https://github.com/realm/SwiftLint/issues/2539)
-  
+
 * Fix false positives on `vertical_whitespace_between_cases` rule when a blank
   line is present but it contains trailing whitespace.  
   [Ben Staveley-Taylor](https://github.com/BenStaveleyTaylor)
