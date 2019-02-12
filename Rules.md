@@ -13322,6 +13322,14 @@ let exp = -1_000_000.000_000e2
 ```
 
 ```swift
+let year = 2049
+```
+
+```swift
+let year = 1912
+```
+
+```swift
 let foo = +100
 ```
 
@@ -13370,6 +13378,14 @@ let exp = +1_000_000.000_000e2
 ```
 
 ```swift
+let year = 2049
+```
+
+```swift
+let year = 1912
+```
+
+```swift
 let foo = 100
 ```
 
@@ -13415,6 +13431,14 @@ let octal = 0o21_1
 
 ```swift
 let exp = 1_000_000.000_000e2
+```
+
+```swift
+let year = 2049
+```
+
+```swift
+let year = 1912
 ```
 
 </details>
